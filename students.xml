@@ -1,0 +1,12 @@
+<list>
+  <entity.Student>
+    <id>1</id>
+    <lastname>Muster</lastname>
+    <firstname>Hans</firstname>
+  </entity.Student>
+  <entity.Student>
+    <id>2</id>
+    <lastname>Mustermann</lastname>
+    <firstname>Max</firstname>
+  </entity.Student>
+</list>
